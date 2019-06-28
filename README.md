@@ -510,3 +510,14 @@ I might turn this into a website later on if people are interested.
 5. Angela is a developer and artist who has published a dozen of her video games on Steam. We interview her about her journey into coding and her life as a college student at Stanford (1 hour listen): https://www.freecodecamp.org/news/podcast-digital-artist-and-game-dev/
 
 
+## 2019-06-28
+
+1. Learn how to build your own social media app from scratch using React, Redux, Firebase, and Express - a full-length intermediate course - all free and with no ads (12 hour watch): https://www.freecodecamp.org/news/react-firebase-social-media-app-course/
+
+2. How to write an amazing cover letter that will get you hired - template included (18 minute read): https://www.freecodecamp.org/news/how-to-write-an-amazing-cover-letter-that-will-get-you-hired/
+
+3. A 30-year-old plumber switched careers and became a full-time developer. We interviewed him about his amazing journey (1 hour listen): https://www.freecodecamp.org/news/from-plumber-to-full-time-developer/
+
+4. How to kill procrastination and absolutely crush it with your ideas (4 minute read): https://www.freecodecamp.org/news/how-to-kill-procrastination-and-crush-your-ideas/
+
+5. How to set up your Minimum Viable Product (MVP) - a checklist to get you up and running (7 minute read): https://www.freecodecamp.org/news/how-to-define-an-mvp/
